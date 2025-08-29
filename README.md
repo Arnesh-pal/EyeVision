@@ -71,19 +71,3 @@ Model Checkpoints:
 - **Hugging Face Spaces (Gradio UI)** 🤗  
 
 ---
-
-## 📥 Usage (Local Training)  
-
-```bash
-# Clone repo
-git clone https://github.com/your-username/eye-disease-classifier.git
-cd eye-disease-classifier
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Train the model
-python train.py
-
-# Evaluate on test set
-python evaluate.py
